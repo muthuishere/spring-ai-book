@@ -27,7 +27,15 @@ function Home() {
             <h2 className="text-2xl text-muted-foreground mb-4">
               GCP Vertex AI Edition
             </h2>
-            <p className="text-xl mb-6">By Muthukumaran Navaneethakrishnan</p>
+            <p className="text-xl mb-6">
+              By{" "}
+              <a
+                target="_blank"
+                href="https://www.linkedin.com/in/muthuishere/"
+              >
+                Muthukumaran Navaneethakrishnan
+              </a>
+            </p>
             <div className="space-y-4">
               <p className="text-lg">
                 Master Spring AI development with GCP Vertex AI through 20+
