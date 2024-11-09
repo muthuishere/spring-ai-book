@@ -30,8 +30,9 @@ function Home() {
             <p className="text-xl mb-6">By Muthukumaran Navaneethakrishnan</p>
             <div className="space-y-4">
               <p className="text-lg">
-                Master Spring AI development with 25+ hands-on Spring Boot
-                applications
+                Master Spring AI development with GCP Vertex AI through 20+
+                practical examples covering RAG, Text Embeddings, Image
+                Embeddings, and more
               </p>
               <a
                 href="http://leanpub.com/springai"
@@ -120,31 +121,31 @@ function Home() {
         <div className="max-w-3xl mx-auto space-y-6">
           {[
             {
-              number: "1-2",
+              number: "1 - 2",
               title: "Foundation & Basic ChatBot",
               description:
                 "Get started with Spring AI and build your first AI-powered chatbot",
             },
             {
-              number: "3-5",
+              number: "3 - 5",
               title: "Advanced ChatBot Features",
               description:
                 "Implement context awareness, structural data integration, and LLM function calling",
             },
             {
-              number: "6-7",
+              number: "6 - 7",
               title: "Multimedia Processing",
               description:
                 "Handle text, PDF, images, audio, and video in your AI applications",
             },
             {
-              number: "8-10",
+              number: "8 - 10",
               title: "Enterprise Integration",
               description:
                 "Implement RAG, knowledge base integration, and document processing",
             },
             {
-              number: "11-12",
+              number: "11 - 12",
               title: "Advanced Topics",
               description:
                 "Explore GCP Model Garden and future directions in Spring AI",
@@ -155,7 +156,7 @@ function Home() {
               className="bg-white dark:bg-gray-800 rounded-lg p-6 shadow-sm"
             >
               <div className="flex items-start gap-4">
-                <div className="bg-primary/10 rounded-full p-2 w-12 h-12 flex items-center justify-center">
+                <div className="bg-primary/10 rounded-full p-2 w-20 h-12 flex items-center justify-center">
                   <span className="text-primary font-bold">
                     {chapter.number}
                   </span>
@@ -176,7 +177,7 @@ function Home() {
       <section className="text-center bg-primary/5 rounded-lg p-12 mt-12">
         <h2 className="text-3xl font-bold mb-6">Ready to Master Spring AI?</h2>
         <p className="text-xl mb-8">
-          Get practical, hands-on experience with 25+ Spring Boot applications
+          Get practical, hands-on experience with 20+ practical examples
         </p>
         <div className="space-x-4">
           <a
