@@ -188,7 +188,7 @@ function Home() {
             Purchase on Leanpub
           </a>
           <Link
-            to="/sample"
+            href="http://leanpub.com/springai"
             className="inline-block bg-gray-200 text-gray-800 px-6 py-3 rounded-lg text-lg font-semibold hover:bg-gray-300"
           >
             Read Sample Chapter
