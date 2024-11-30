@@ -62,17 +62,20 @@ export function Author() {
         <div className="prose dark:prose-invert max-w-none">
           <p className="text-lg leading-relaxed text-gray-700 dark:text-gray-300">
             Muthukumaran Navaneethakrishnan has over 20 years of experience as a
-            software developer, working with languages like Java, JavaScript,
-            Clojure, and Golang. Even though he works as an engineering manager
-            and architect, he still loves coding every day. He has written for
-            well-known publishers like Leanpub, O'Reilly, and Manning, sharing
-            his knowledge about using AI in software development. Muthukumaran
-            is active in the open-source community, creating tools that help
-            other developers work better. He also spends time teaching and
-            writing about development, aiming to help both new and experienced
-            developers improve their skills. Through his work, he mixes his deep
-            technical knowledge with a practical approach to solve real
-            problems.
+            software developer, working with languages such as Java, JavaScript,
+            Clojure, and Golang. Even as he serves in roles such as engineering
+            manager and architect, he continues to engage daily in coding,
+            demonstrating his enduring passion for hands-on software
+            development. His work has been featured by prominent publishers like
+            Leanpub, O'Reilly, and Manning, where he shares his insights on
+            integrating AI into software development. In the open-source
+            community, Muthukumaran is highly active, contributing to projects
+            like Spring AI and developing numerous other libraries. He is
+            dedicated to creating proof of concepts, reviewing codebases to
+            enhance scalability, performance, and security, and building tools
+            that improve the developer experience. He specializes in quickly
+            resolving urgent issues, ensuring systems are both robust and
+            efficient.
           </p>
         </div>
       </div>
