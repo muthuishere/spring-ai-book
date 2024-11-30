@@ -61,12 +61,18 @@ export function Author() {
 
         <div className="prose dark:prose-invert max-w-none">
           <p className="text-lg leading-relaxed text-gray-700 dark:text-gray-300">
-            Muthukumaran Navaneethakrishnan is a programmer who loves coding in
-            Clojure. He also codes in Java, JavaScript, and Golang—because they
-            pay the bills. Not that he minds Golang, with its impressive
-            compilation speed, compact image size, and stellar performance. He
-            has contributed to various open-source projects, big and small, and
-            has built libraries, Chrome extensions, and automated apps for fun.
+            Muthukumaran Navaneethakrishnan has over 20 years of experience as a
+            software developer, working with languages like Java, JavaScript,
+            Clojure, and Golang. Even though he works as an engineering manager
+            and architect, he still loves coding every day. He has written for
+            well-known publishers like Leanpub, O'Reilly, and Manning, sharing
+            his knowledge about using AI in software development. Muthukumaran
+            is active in the open-source community, creating tools that help
+            other developers work better. He also spends time teaching and
+            writing about development, aiming to help both new and experienced
+            developers improve their skills. Through his work, he mixes his deep
+            technical knowledge with a practical approach to solve real
+            problems.
           </p>
         </div>
       </div>
